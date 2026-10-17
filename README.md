@@ -1,0 +1,2 @@
+# chapter_02_Numpy_properties_and_Operation
+all execution included
